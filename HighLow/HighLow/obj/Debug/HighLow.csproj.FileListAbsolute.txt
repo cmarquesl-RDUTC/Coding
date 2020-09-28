@@ -1,0 +1,7 @@
+E:\C# COding\HighLow\HighLow\obj\Debug\HighLow.csprojAssemblyReference.cache
+E:\C# COding\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+E:\C# COding\HighLow\HighLow\bin\Debug\HighLow.exe.config
+E:\C# COding\HighLow\HighLow\bin\Debug\HighLow.exe
+E:\C# COding\HighLow\HighLow\bin\Debug\HighLow.pdb
+E:\C# COding\HighLow\HighLow\obj\Debug\HighLow.exe
+E:\C# COding\HighLow\HighLow\obj\Debug\HighLow.pdb
